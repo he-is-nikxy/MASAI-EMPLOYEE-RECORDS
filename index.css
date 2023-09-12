@@ -101,6 +101,11 @@ div {
     text-align: center;
 
   }
+
+  button {
+    border: none;
+    background-color: transparent;
+  }
   
   /* #sub {
     margin-top: 20px;
